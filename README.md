@@ -261,6 +261,11 @@ https://martincorona007.github.io/Startup-Tequila-Trip/
 Github Repo  
 https://github.com/martincorona007/Startup-Tequila-Trip  
 
+---- 
+kylpvn
+Check out my submission for Coding Challenge 8  
+Github Pages
+https://kylpvn.github.io/NewSouls-startup/
 
 
 ## What is the Challenge?
